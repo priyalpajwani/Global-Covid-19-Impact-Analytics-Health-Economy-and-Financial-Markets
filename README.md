@@ -1,0 +1,2 @@
+# Global-Covid-19-Impact-Analytics-Health-Economy-and-Financial-Markets
+This repository analyses 15 World Bank indicators (2018–2024) across seven global regions to examine how COVID-19 reshaped healthcare, economies and financial markets. A Python pipeline transforms and integrates 31 raw datasets into a unified analytical dataset, supporting Tableau dashboards and recommendations for the IMF, WHO and United Nations.
